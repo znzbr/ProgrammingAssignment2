@@ -1,4 +1,4 @@
-## Creates cache for matrix
+## Creates cache list for given matrix
 makeCacheMatrix <- function(x = matrix()) {
     #init inverse matrix with null
     inv <- NULL
